@@ -1,8 +1,9 @@
-username: mwchengxuyuan
-baseurl: /blog
+username:mwchegnxuyaun
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
-highlighter: pygments
+highlighter:mwchegnxuyaun
 title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
-disqusname: mwchengxuyuan
+theme: kunka
+disqusname: minixalpha
